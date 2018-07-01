@@ -2,3 +2,6 @@ rice
 noodles
 sushi
 pasta
+pizza
+fries
+kosam7shi
